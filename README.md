@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Disease Info & AI Health Assistant Platform
 
 A bilingual (English / Afaan Oromoo) web platform for browsing disease categories,
@@ -70,3 +71,7 @@ Read the docs in `docs/` in this order: PRD → Architecture → Workflow → Da
 This platform provides **general health education content only**. It is not a
 diagnostic tool and does not replace professional medical advice. This principle
 is enforced throughout the AI assistant's system prompt and UI (see `06-SECURITY.md`).
+=======
+# Health-assistant
+This website are detail explain types and about disease
+>>>>>>> 0cf9df63c88cea5a4b97486d8acb271b5e150fd2
