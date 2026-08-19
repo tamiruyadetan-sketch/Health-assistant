@@ -1,0 +1,29 @@
+{
+  "name": "health-portal",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Disease Info & AI Health Assistant Platform (EN / Afaan Oromoo)",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "concurrently -n web,api -c cyan,magenta \"npm:dev:web\" \"npm:dev:api\"",
+    "dev:web": "npm run dev -w @health-portal/web",
+    "dev:api": "npm run dev -w @health-portal/api",
+    "build": "npm run build -w @health-portal/web",
+    "build:api": "npm run build -w @health-portal/api",
+    "lint": "npm run lint -w @health-portal/web",
+    "lint:api": "npm run lint -w @health-portal/api",
+    "typecheck": "npm run typecheck -w @health-portal/web",
+    "typecheck:api": "npm run typecheck -w @health-portal/api",
+    "format": "npm run format -w @health-portal/web",
+    "format:api": "npm run format -w @health-portal/api"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

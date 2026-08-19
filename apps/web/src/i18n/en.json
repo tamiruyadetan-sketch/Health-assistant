@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "viewAll": "View all diseases",
+    "noDiseases": "Diseases coming soon.",
+    "menu": "Open menu",
+    "closeMenu": "Close menu",
+    "browse": "Browse"
+  },
+  "utility": {
+    "brightness": "Toggle light / dark mode",
+    "chooseLanguage": "Switch language"
+  },
+  "common": {
+    "loading": "Loading…",
+    "retry": "Try again",
+    "error": "Something went wrong",
+    "notFound": "Not found",
+    "backHome": "Back to home",
+    "disclaimer": "This is general health education information, not a medical diagnosis or a substitute for professional medical advice."
+  },
+  "home": {
+    "heroTitle": "Understand diseases. Ask questions. Stay informed.",
+    "heroSubtitle": "Simple, trustworthy explanations of common diseases — in English and Afaan Oromoo — with an AI assistant to answer your questions.",
+    "searchPlaceholder": "Search a disease by name…",
+    "searchAria": "Search diseases",
+    "searchEmpty": "No diseases match your search.",
+    "searchHelp": "Type at least 2 characters",
+    "categoriesTitle": "Browse by category",
+    "categoriesSubtitle": "Pick a category to explore the diseases in it."
+  },
+  "category": {
+    "diseasesCount": "{{count}} diseases",
+    "backToCategories": "Back to categories",
+    "notFoundTitle": "Category not found",
+    "notFoundMessage": "We couldn't find that category. It may have been renamed or removed."
+  },
+  "disease": {
+    "whatIsIt": "What is it?",
+    "causes": "What causes this disease?",
+    "howAcquired": "How does a person become affected?",
+    "prevention": "How can it be prevented?",
+    "symptoms": "Symptoms",
+    "foodsRecommended": "Foods recommended",
+    "foodsToAvoid": "Foods to avoid",
+    "whenToSeeDoctor": "When to see a doctor",
+    "notFoundTitle": "Disease not found",
+    "notFoundMessage": "We couldn't find that disease. It may have been renamed or removed.",
+    "backToCategories": "Browse all categories",
+    "inCategories": "Categories",
+    "breadcrumbHome": "Home",
+    "contentUnavailable": "Content for this disease is being prepared."
+  },
+  "chat": {
+    "title": "Ask the AI assistant",
+    "subtitle": "Ask questions about this disease. Answers are general information only.",
+    "placeholder": "Ask a question about this disease…",
+    "send": "Send message",
+    "thinking": "Assistant is typing…",
+    "error": "Sorry, the assistant could not answer right now.",
+    "retry": "Retry",
+    "rateLimited": "You've asked a lot of questions quickly. Please wait a moment before trying again.",
+    "disclaimer": "This assistant provides general educational information, not medical advice or a diagnosis. Always consult a qualified health professional for personal medical decisions.",
+    "charsLeft": "{{count}} characters left",
+    "you": "You",
+    "assistant": "Assistant",
+    "emptyState": "Ask anything about this disease — its causes, symptoms, prevention, or recommended foods."
+  },
+  "about": {
+    "title": "About this platform",
+    "missionTitle": "Our mission",
+    "missionBody": "We make trustworthy health education accessible to everyone — including Afaan Oromoo speakers — by combining structured, easy-to-understand disease information with an AI assistant that answers your questions in your language.",
+    "disclaimerTitle": "Important disclaimer",
+    "disclaimerBody": "All content on this platform is general health education. It is not a diagnosis, not medical advice, and does not replace a consultation with a qualified health professional. If you are unwell, please see a doctor.",
+    "teamTitle": "Who we are",
+    "teamBody": "A small team of developers, health writers, and Afaan Oromoo speakers building a free, open, and bilingual health reference.",
+    "contactTitle": "Contact",
+    "contactBody": "For questions, corrections, or feedback, please reach out through the project repository.",
+    "backHome": "Back to home"
+  },
+  "footer": {
+    "about": "Disease Info & AI Health Assistant — a free bilingual health education platform.",
+    "copyright": "© {{year}} Health Portal. General information only, not medical advice."
+  },
+  "errors": {
+    "generic": "Something went wrong while loading this page.",
+    "network": "Could not reach the server. Please check your connection and try again."
+  }
+}

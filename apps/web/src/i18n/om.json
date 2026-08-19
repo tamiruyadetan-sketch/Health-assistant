@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Mana",
+    "about": "Waa'ee Keenya",
+    "viewAll": "Dhaamsa hunda ilaali",
+    "noDiseases": "Dhaamsi dhiyootti ni dabalama.",
+    "menu": "Menu ban",
+    "closeMenu": "Menu cufi",
+    "browse": "Barbaadi"
+  },
+  "utility": {
+    "brightness": "Ifaa / dukkana jijjiiri",
+    "chooseLanguage": "Afaan jijjiiri"
+  },
+  "common": {
+    "loading": "Fe'aa jira…",
+    "retry": "Itti deebi'i",
+    "error": "Dogoggorri uumame",
+    "notFound": "Hin argamne",
+    "backHome": "Gara mana deebi'i",
+    "disclaimer": "Kun odeeffannoo barnoota fayyaa waliigalaa qofa; sirna qorannoo (diagnosis) ykn bakka gorsa ogeessa fayyaa kan teessu miti."
+  },
+  "home": {
+    "heroTitle": "Dhaamsa hubadhu. Gaaffii gaafadhu. Fayyaa kee beeki.",
+    "heroSubtitle": "Ibsa dhaamsa waliigalaa, salphaa fi amanamaa — Afaan Ingilizii fi Afaan Oromoon — gargaarsa AI'ni gaaffii keetiif deebii kennu.",
+    "searchPlaceholder": "Dhaamsa maqaan isaatiin barbaadi…",
+    "searchAria": "Dhaamsa barbaadi",
+    "searchEmpty": "Dhaamsi barbaacha keetiif hin argamne.",
+    "searchHelp": "Ugguu 2 qubee galchi",
+    "categoriesTitle": "Gosa dhaamsaan barbaadi",
+    "categoriesSubtitle": "Gosa tokko filachuun dhaamsa isaa keessaa ilaali."
+  },
+  "category": {
+    "diseasesCount": "dhaamsa {{count}}",
+    "backToCategories": "Gara gosoota dhaamsaa deebi'i",
+    "notFoundTitle": "Gosni hin argamne",
+    "notFoundMessage": "Gosa kana argachuu hin dandeenye. Maqaan ykn bakki isaa jijjiiramuun taa'a."
+  },
+  "disease": {
+    "whatIsIt": "Inni maali?",
+    "causes": "Maaltu isa kakaasa?",
+    "howAcquired": "Namni akkamitti itti dhuka'e?",
+    "prevention": "Akkamitti ittifamuu danda'a?",
+    "symptoms": "Mallattoolee",
+    "foodsRecommended": "Nyaanni qabatu",
+    "foodsToAvoid": "Nyaanni ittifamuu qabu",
+    "whenToSeeDoctor": "Yoom gara doktora deemuu barbaachisa?",
+    "notFoundTitle": "Dhaamsi hin argamne",
+    "notFoundMessage": "Dhaamsa kana argachuu hin dandeenye. Maqaan ykn bakki isaa jijjiiramuun taa'a.",
+    "backToCategories": "Gosoota dhaamsaa hunda ilaali",
+    "inCategories": "Gosoota",
+    "breadcrumbHome": "Mana",
+    "contentUnavailable": "Qabiyyeen dhaamsa kanaa qophaa'aa jira."
+  },
+  "chat": {
+    "title": "Assistanti AI gaafadhu",
+    "subtitle": "Waa'ee dhaamsa kanaa gaaffii gaafadhu. Deebiin odeeffannoo waliigalaa qofa.",
+    "placeholder": "Waa'ee dhaamsa kanaa gaaffii gaafadhu…",
+    "send": "Ergi",
+    "thinking": "Assistanti barreessaa jira…",
+    "error": "Dhiifama, assistanti amma deebii kennuu hin danda'e.",
+    "retry": "Itti deebi'i",
+    "rateLimited": "Gaaffii baay'ee daftee gaafatteetta. Mee yeroo xinnoo eegiitii itti deebi'i.",
+    "disclaimer": "Assistanti kun odeeffannoo barnoota waliigalaa qofa kenna; gorsa ykn sirna qorannoo fayyaa miti. Murtee fayyaa mataa keetiif yeroo hunda ogeessa fayyaa gaafadhu.",
+    "charsLeft": "qubee {{count}} hafeera",
+    "you": "Ati",
+    "assistant": "Assistanti",
+    "emptyState": "Waa'ee dhaamsa kanaa waan kamillee gaafadhu — sababa, mallattoolee, ittisa ykn nyaata qabatu."
+  },
+  "about": {
+    "title": "Waa'ee platform kanaa",
+    "missionTitle": "Kaayyoo keenya",
+    "missionBody": "Barnoota fayyaa amanamaa nama hundaaf — keessattuu warra Afaan Oromoon dubbatanif — walaalessuu barbaanna: odeeffannoo dhaamsa salphaa fi sirnaan qixa ta'e, gargaarsa AI isaan afaanuma keettiin deebii kennu wajjin.",
+    "disclaimerTitle": "Hubachiisa barbaachisaa",
+    "disclaimerBody": "Qabiyyeen hundi platform kanaa barnoota fayyaa waliigalaa qofa. Kun sirna qorannoo, gorsa fayyaa ykn bakka ogeessa fayyaa miti. Yoo dhibee qabaatte maaloo doktora argadhu.",
+    "teamTitle": "Nu eenyu",
+    "teamBody": "Gareen xinnaa kan developers, barreessitoota fayyaa fi dubbattoota Afaan Oromoo, kan platform kana gara bilisaafi waliigalaatti ijaaran.",
+    "contactTitle": "Quunnamti",
+    "contactBody": "Gaaffii, sirreeffama ykn yaada qabaattan, karaa bakkaa (repository) pirojektii keenyaa quunnamaa.",
+    "backHome": "Gara mana deebi'i"
+  },
+  "footer": {
+    "about": "Odeeffannoo dhaamsaa & Assistanti Fayyaa AI — platform barnoota fayyaa bilisaa fi afaan lamaattii.",
+    "copyright": "© {{year}} Health Portal. Odeeffannoo waliigalaa qofa; gorsa fayyaa miti."
+  },
+  "errors": {
+    "generic": "Fuufula kana fe'uu irratti dogoggorri uumame.",
+    "network": "Server quunnamuu hin dandeenye. Qunnamtee kee ilaaliitii itti deebi'i."
+  }
+}
